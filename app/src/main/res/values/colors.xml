@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#808080</color>
+    <color name="dark_grey">#ff555555</color>
+    <color name="color_list_normal0">#f0f0f0</color>
+    <color name="color_list_pressed">#ffeeb9</color>
+    <color name="color_list_normal1">#d8edfe</color>
+    <color name="color_orange">#FF8309</color>
+    <color name="dark">#ff0a0a0a</color>
+    <color name="dark_blue">#778899</color>
+    <color name="tran_dark">#454545</color>
+    <color name="light">#fff9f9f9</color>
+    <color name="circle_map_color">#E6E4DD</color>
+    <color name="grey_black">#2E2E2E</color>
+    <!-- 黑灰色背景   -->
+    <color name="main_color">#a7c3e7</color>
+    <color name="tab_text_color">#a6a6a6</color>
+    <color name="light_blue">#91c2ea</color>
+    <color name="actionbar_separator">#3A5FCD</color>
+    <color name="actionbar_background_start">#3A5FCD</color>
+    <color name="actionbar_background_end">#27408B</color>
+    <color name="actionbar_title">#FFFFFF</color>
+    <color name="actionbar_background_item_pressed_start">#FF7F00</color>
+    <color name="actionbar_background_item_pressed_end">#EE7600</color>
+    <color name="screenshot_save_normal">#E9E9E9</color>
+    <color name="screenshot_save_press">#6f7a81</color>
+    <color name="grey_black_window">#2E2E2E</color>
+    <color name="main_color_window">#097dad</color>
+    <color name="screenshot_window_bg">#E9E9E9</color>
+    <color name="screenshot_window_press">#DDDDDD</color>
+
+    <color name="setting_listitem_press">#f0f0f0</color>
+    <color name="popmenu_item_text">#7d7d7d</color>
+    <color name="popmenu_item_normal">#392f2d</color>
+    <color name="popmenu_item_press">#919d9d</color>
+    <color name="popmenu_item_divide_line">#1b1b1b</color>
+
+
+    <color name="half_trans">#e0000000</color>
+    <color name="title_bar">#0076D6</color>
+    <color name="divide_line">#d9e0e6</color>
+    <color name="input_text_hint">#C6C6C8</color>
+    <color name="input_text">#434242</color>
+    <color name="title_bar_pressed">#005fac</color>
+    <color name="title_bar_disable">#CACACA</color>
+    <color name="lock_pattern_unselect">#fff</color>
+    <color name="lock_pattern_select">#004077</color>
+    <color name="lock_pattern_text">#ffe328</color>
+    <color name="page_background">#ffffff</color>
+
+    <color name="sky_blue">#2196F3</color>
+    <color name="tab_select_blue">#288EE7</color>
+    <color name="tab_normal_grey">#777777</color>
+    <color name="tab_normal_white">#ffffff</color>
+    <color name="reg_text_press">#1F8AE7</color>
+    <color name="reg_text_normal">#B4B4B4</color>
+    <color name="driver_line_color">#F1F1F1</color>
+    <color name="list_item_yellow_color">#F68606</color>
+    <color name="list_item_red_color">#FF3E3F</color>
+    <color name="list_item_blue_color">#1C88E6</color>
+    <color name="list_item_green_color">#00B911</color>
+    <color name="list_item_gray_color">#AAB3C4</color>
+    <color name="progress_wheel_color">#00A5C4</color>
+    <color name="list_item_white_color">#FFFFFF</color>
+
+
+    <!-- date time picker -->
+    <color name="circle_background">#f2f2f2</color>
+    <color name="line_background">#cccccc</color>
+    <color name="ampm_text_color">#8c8c8c</color>
+    <color name="done_text_color_normal">#000000</color>
+    <color name="done_text_color_disabled">#cccccc</color>
+    <color name="numbers_text_color">#8c8c8c</color>
+
+    <color name="transparent_black">#7f000000</color>
+    <color name="blue">#33b5e5</color>
+    <color name="blue_focused">#c1e8f7</color>
+    <color name="neutral_pressed">#33999999</color>
+    <color name="darker_blue">#0099cc</color>
+    <color name="date_picker_text_normal">#ff999999</color>
+    <color name="date_picker_text_disabled">#ccc</color>
+
+    <color name="calendar_header">#999999</color>
+    <color name="date_picker_view_animator">#f2f2f2</color>
+    <color name="calendar_selected_date_text">#ffd1d2d4</color>
+
+    <!-- Colors for red theme -->
+    <color name="red">#ff3333</color>
+    <color name="red_focused">#853333</color>
+    <color name="light_gray">#404040</color>
+    <color name="dark_gray">#363636</color>
+    <color name="line_dark">#808080</color>
+    <color name="pick_task_leader_text_color">#4880E4</color>
+    <color name="pick_task_text_color">#727272</color>
+    <color name="toast_pop_view_text_color">#F07746</color>
+    <color name="pop_text_color_frame">#50C7FF</color>
+    <color name="task_profile_textcolor">#727272</color>
+
+    <color name="usercenter_item_background">#5B6872</color>
+    <color name="tip_text_color">#FF9933</color>
+
+
+    <color name="ctid_main_bg">#d5d5d5</color>
+    <color name="ctid_white">#FFFFFF</color>
+    <color name="ctid_black">#000000</color>
+    <color name="ctid_orange">#FF7F00</color>
+
+    <color name="ctid_blue">#0000FF</color>
+    <color name="ctid_red">#FFFF3333</color>
+    <color name="ctid_green">#FF33FF33</color>
+    <color name="ctid_txt_blue">#FF3333FF</color>
+    <color name="ctid_bg_green">#009900</color>
+    <color name="ctid_bg_blue">#48a1dd</color>
+    <color name="ctid_bg_bluelight">#4fc3f7</color>
+
+</resources>

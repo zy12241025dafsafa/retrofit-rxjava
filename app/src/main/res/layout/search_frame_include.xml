@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content">
+
+    <com.meiya.ui.XEditText
+            android:id="@+id/search_frame"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.0"
+            android:background="@drawable/search_input"
+            android:clickable="true"
+            android:drawablePadding="5dip"
+            android:focusable="true"
+            android:longClickable="false"
+            android:layout_marginLeft="5dip"
+            android:layout_marginRight="5dip"
+            android:hint="请输入主题"
+            android:imeOptions="actionSearch"
+            android:maxLines="1"
+            android:textSize="14sp"
+            android:drawableLeft="@drawable/search_icon"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:singleLine="true"
+            android:textColor="#3E3D3D"/>
+
+</LinearLayout>

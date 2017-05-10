@@ -1,0 +1,45 @@
+<resources>
+
+    <dimen name="titlebar_height">50dip</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="thumbnail_imageview_size">41.0dip</dimen>
+    <dimen name="bottom_bar_height">75.0dip</dimen>
+    <dimen name="top_menu_bar_height">45.0dip</dimen>
+    <dimen name="shutter_bottom_size">62.0dip</dimen>
+    <dimen name="album_header_bar_height">50.0dip</dimen>
+    <dimen name="title_view_left_back_padding_left">12.0dip</dimen>
+    <dimen name="title_view_left_back_padding_right">12.0dip</dimen>
+    <dimen name="album_header_btn_width">48.0dip</dimen>
+    <dimen name="album_rooter_bar_height">48.0dip</dimen>
+    <dimen name="album_rooter_bar_text_size">16.0sp</dimen>
+    <dimen name="videodetails_textsize_time">13.0dip</dimen>
+    <dimen name="video_bottom_bar_height">40.0dip</dimen>
+
+    <dimen name="switch_bg_circle_width">70.0dip</dimen>
+    <dimen name="switch_bg_circle_height">70.0dip</dimen>
+
+    <dimen name="select_color_size">28dip</dimen>
+    <dimen name="select_color_checked_border">36dip</dimen>
+    <dimen name="shadow_width">5dp</dimen>
+    <dimen name="slidingmenu_offset">100dp</dimen>
+
+    <dimen name="wheel_progress_radius">50dp</dimen>
+    <dimen name="wheel_progress_radius_small">40dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="margin">8dp</dimen>
+    <dimen name="text">18sp</dimen>
+
+
+    <dimen name="bar_width_small">1dp</dimen>
+    <dimen name="rim_width_small">1dp</dimen>
+
+    <dimen name="list_text_size">14sp</dimen>
+
+    <!-- lock pattern -->
+    <dimen name="inner_circle_radius">8dp</dimen>
+    <dimen name="outer_circle_radius">28dp</dimen>
+
+</resources>

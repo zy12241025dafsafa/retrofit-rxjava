@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_illegal_report_upload_select_media">
+        <item>相册</item>
+    </string-array>
+</resources>
